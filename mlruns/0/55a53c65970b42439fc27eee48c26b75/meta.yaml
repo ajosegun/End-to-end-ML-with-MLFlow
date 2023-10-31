@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/olusegun/Dev/Machine%20Learning/End-to-end-ML-with-MLFlow/mlruns/0/55a53c65970b42439fc27eee48c26b75/artifacts
+end_time: 1698746730890
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 55a53c65970b42439fc27eee48c26b75
+run_name: omniscient-newt-561
+run_uuid: 55a53c65970b42439fc27eee48c26b75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698746719754
+status: 3
+tags: []
+user_id: olusegun
