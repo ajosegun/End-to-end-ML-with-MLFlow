@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/olusegun/Dev/Machine%20Learning/End-to-end-ML-with-MLFlow/mlruns/0/5d194a9d9f904bd597c527f37a6ae0fa/artifacts
+end_time: 1698744984759
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5d194a9d9f904bd597c527f37a6ae0fa
+run_name: delicate-wren-267
+run_uuid: 5d194a9d9f904bd597c527f37a6ae0fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1698744976112
+status: 3
+tags: []
+user_id: olusegun
